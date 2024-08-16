@@ -7,6 +7,12 @@ This interactive dashboard provides a comprehensive and dynamic analysis of UC-I
 
 
 ## Note
+
+The Tableau dashboards created for this project are published and accessible online. You can interact with these dashboards to explore the data and see the results in real-time. The dashboards automatically reflect any updates to the underlying data, thanks to a live connection with the SQL Server database. To view and interact with the dashboards, please visit the following link:
+
+https://public.tableau.com/app/profile/sid.pandiri/vizzes
+
+
 ## Technologies Used:
 Tableau for interactive data visualization
 
@@ -76,6 +82,7 @@ UC-Irvine NSF Federal Funding History (FY2012 - FY2023):
 
 Graph Representation: This graph details federal expenditures by agency and department, tracking the distribution of funds across different academic disciplines.
 ![image](https://github.com/user-attachments/assets/d4f313ff-43ae-4dc0-8179-6a71bbd58974)
+
 Outcome: It assists in identifying key areas of research funding and guides departments in targeting specific agencies for future grants.
 Research Analytics - UC-Irvine Total Faculty and Post Doc Numbers (2012-2022):
 
@@ -83,6 +90,7 @@ Research Analytics - UC-Irvine Total Faculty and Post Doc Numbers (2012-2022):
 
 Graph Representation: This graph shows trends in faculty and postdoctoral staff numbers, along with percentage changes over the years.
 ![image](https://github.com/user-attachments/assets/9f1e622c-6efd-41a8-941a-f2c6467de14e)
+
 Outcome: It highlights changes in academic staffing, essential for human resources planning and maintaining a competitive research environment.
 Research Analytics - UC-Irvine Science, Research and Total Expenditure (2012-2022):
 
